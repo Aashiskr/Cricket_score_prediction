@@ -80,4 +80,4 @@ Prediction: The XGBoost model analyzes these metrics against 15+ years of match 
 
 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
-![alt text](image.png)
+![App Screenshot](image.png)
